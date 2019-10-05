@@ -1,0 +1,36 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+}
+
+.App-header {
+  background-color: #fdfdff;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #b31717;
+}
+
+.table1 {
+	text-align: center;
+	padding: 10px 20px;; /* Поля вокруг текста */
+	width: 250px; /* Ширина таблицы */
+}
+
+td, th {
+	padding: 10px 20px;
+background: rgb(83, 185, 172);
+color: rgb(191, 211, 16);
+border: 2px solid; 
+font-size: 0.9em;
+ }
